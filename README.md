@@ -11,8 +11,8 @@ Program ini dibuat dengan bahasa **C++** dan **Python** berdasarkan permintaan:
 
 Unduh filenya:
 
-<a href="https://raw.githubusercontent.com/fazbrainly/konversi-satuan-berat/main/berat.cpp" download="berat.cpp"><img src="https://custom-icon-badges.demolab.com/github/size/fazbrainly/konversi-satuan-berat/berat.cpp?label=C%2b%2b&logo=cpp&labelColor=302d41&color=b7bdf8&logoColor=d9e0ee&style=for-the-badge" alt="C++"/></a>
-<a href="https://raw.githubusercontent.com/fazbrainly/konversi-satuan-berat/main/berat.py" download="berat.py"><img src="https://img.shields.io/github/size/fazbrainly/konversi-satuan-berat/berat.py?label=Python&logo=python&labelColor=302d41&color=8aadf4&logoColor=d9e0ee&style=for-the-badge" alt="Python"/></a>
+[![C++](https://custom-icon-badges.demolab.com/github/size/fazbrainly/konversi-satuan-berat/berat.cpp?label=C%2b%2b&logo=cpp&labelColor=302d41&color=b7bdf8&logoColor=d9e0ee&style=for-the-badge)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/fazbrainly/konversi-satuan-berat/tree/main/berat.cpp)
+[![Python](https://img.shields.io/github/size/fazbrainly/konversi-satuan-berat/berat.py?label=Python&logo=python&labelColor=302d41&color=8aadf4&logoColor=d9e0ee&style=for-the-badge)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/fazbrainly/konversi-satuan-berat/tree/main/berat.py)
 
 # Lisensi
 
