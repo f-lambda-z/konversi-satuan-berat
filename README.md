@@ -29,6 +29,6 @@ Berikan donasimu untuk perkembangan selanjutnya.
 <div align="center">
   <p>Jangan lupa follow akun Brainly saya.</p>
   <a href="https://brainly.co.id/profil/FΛZ-58027659">
-    <img src="https://custom-icon-badges.demolab.com/badge/Brainly-FAZ-494d64?labelColor=302d41&logo=brainly&style=for-the-badge" alt="Brainly"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Brainly-F%CE%9BZ-494d64?labelColor=302d41&logo=brainly&style=for-the-badge" alt="Brainly"/>
   </a>
 </div>
