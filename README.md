@@ -22,7 +22,7 @@ Program ini dilisensikan di bawah Lisensi MIT supaya bisa kalian pakai untuk bel
 
 Berikan donasimu untuk perkembangan selanjutnya.
 
-[![Trakteer](https://custom-icon-badges.demolab.com/badge/Trakteer-Donasi-ed8796?labelColor=302d41&logo=trakteerid&logoColor=d9e0ee&style=for-the-badge)](https://trakteer.id/fazbrainly)
+[![Trakteer](https://custom-icon-badges.demolab.com/badge/Trakteer-Donasi-ed8796?labelColor=302d41&logo=trakteerid&logoColor=d9e0ee&style=for-the-badge)](https://trakteer.id/f-lambda-z)
 
 ---
 
