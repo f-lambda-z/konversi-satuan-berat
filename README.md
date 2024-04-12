@@ -11,8 +11,8 @@ Program ini dibuat dengan bahasa **C++** dan **Python** berdasarkan permintaan:
 
 Unduh filenya:
 
-[![C++](https://custom-icon-badges.demolab.com/github/size/fazbrainly/konversi-satuan-berat/berat.cpp?label=C%2b%2b&logo=cpp&labelColor=302d41&color=b7bdf8&logoColor=d9e0ee&style=for-the-badge)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/fazbrainly/konversi-satuan-berat/tree/main/berat.cpp)
-[![Python](https://img.shields.io/github/size/fazbrainly/konversi-satuan-berat/berat.py?label=Python&logo=python&labelColor=302d41&color=8aadf4&logoColor=d9e0ee&style=for-the-badge)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/fazbrainly/konversi-satuan-berat/tree/main/berat.py)
+[![C++](https://custom-icon-badges.demolab.com/github/size/f-lambda-z/konversi-satuan-berat/berat.cpp?label=C%2b%2b&logo=cpp&labelColor=302d41&color=b7bdf8&logoColor=d9e0ee&style=for-the-badge)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/f-lambda-z/konversi-satuan-berat/tree/main/berat.cpp)
+[![Python](https://img.shields.io/github/size/f-lambda-z/konversi-satuan-berat/berat.py?label=Python&logo=python&labelColor=302d41&color=8aadf4&logoColor=d9e0ee&style=for-the-badge)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/f-lambda-z/konversi-satuan-berat/tree/main/berat.py)
 
 # Lisensi
 

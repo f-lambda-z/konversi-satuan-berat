@@ -2,18 +2,6 @@
 # -*- coding: utf-8 -*-
 
 def konversi_berat(berat, satuan_awal, satuan_akhir):
-  """
-  Fungsi untuk mengonversi satuan berat.
-
-  Args:
-    berat: Nilai berat yang ingin dikonversi.
-    satuan_awal: Satuan awal berat.
-    satuan_akhir: Satuan akhir berat.
-
-  Returns:
-    Nilai berat setelah dikonversi.
-  """
-
   konversi_tabel = {
     "kg": {
       "hg": 10,
@@ -78,7 +66,7 @@ def konversi_berat(berat, satuan_awal, satuan_akhir):
 
   return berat * konversi_tabel[satuan_awal][satuan_akhir]
 
-berat = float(input("Masukkan berat: "))
+berat = float(input("Masukkan berat (hanya angka): "))
 satuan_awal = input("Masukkan satuan (kg, hg, dag, g, dg, cg, mg): ").lower()
 satuan_akhir = input("Konversi ke (kg, hg, dag, g, dg, cg, mg): ").lower()
 hasil_konversi = konversi_berat(berat, satuan_awal, satuan_akhir)
